@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#_practice\Task(1)_08_11_2021\Task(1)_08_11_2021\obj\Debug\Task(1)_08_11_2021.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\Task(1)_08_11_2021\Task(1)_08_11_2021\obj\Debug\Task(1)_08_11_2021.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\Task(1)_08_11_2021\Task(1)_08_11_2021\bin\Debug\Task(1)_08_11_2021.exe.config
+C:\Users\User\OneDrive\Desktop\C#_practice\Task(1)_08_11_2021\Task(1)_08_11_2021\bin\Debug\Task(1)_08_11_2021.exe
+C:\Users\User\OneDrive\Desktop\C#_practice\Task(1)_08_11_2021\Task(1)_08_11_2021\bin\Debug\Task(1)_08_11_2021.pdb
+C:\Users\User\OneDrive\Desktop\C#_practice\Task(1)_08_11_2021\Task(1)_08_11_2021\obj\Debug\Task(1)_08_11_2021.exe
+C:\Users\User\OneDrive\Desktop\C#_practice\Task(1)_08_11_2021\Task(1)_08_11_2021\obj\Debug\Task(1)_08_11_2021.pdb
