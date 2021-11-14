@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\practice2\bin\Debug\practice2.exe.config
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\practice2\bin\Debug\practice2.exe
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\practice2\bin\Debug\practice2.pdb
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\practice2\obj\Debug\practice2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\practice2\obj\Debug\practice2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\practice2\obj\Debug\practice2.exe
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\practice2\obj\Debug\practice2.pdb
