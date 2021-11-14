@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
