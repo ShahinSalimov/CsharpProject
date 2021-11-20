@@ -31,8 +31,8 @@ namespace ConsoleApp7
                 
 
             }
-            Console.WriteLine("tek ededlerin say {0}", tek);
-            Console.WriteLine("cut ededlerin say {0}", cut);
+            Console.WriteLine("tek ededlerin sayi {0}", tek);
+            Console.WriteLine("cut ededlerin sayi {0}", cut);
             Console.ReadKey();
         }
                 

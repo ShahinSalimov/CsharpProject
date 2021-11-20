@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\Task_week-10\Task_week-10\obj\Debug\Task_Medicine.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\Task_week-10\Task_week-10\obj\Debug\Task_Medicine.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\Task_week-10\Task_week-10\bin\Debug\Task_week-10.exe.config
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\Task_week-10\Task_week-10\bin\Debug\Task_week-10.exe
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\Task_week-10\Task_week-10\bin\Debug\Task_week-10.pdb
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\Task_week-10\Task_week-10\obj\Debug\Task_week-10.exe
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\Task_week-10\Task_week-10\obj\Debug\Task_week-10.pdb
