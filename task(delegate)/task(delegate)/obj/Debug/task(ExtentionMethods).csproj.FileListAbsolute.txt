@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\task(delegate)\task(delegate)\bin\Debug\task(delegate).exe.config
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\task(delegate)\task(delegate)\bin\Debug\task(delegate).exe
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\task(delegate)\task(delegate)\bin\Debug\task(delegate).pdb
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\task(delegate)\task(delegate)\obj\Debug\task(ExtentionMethods).csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\task(delegate)\task(delegate)\obj\Debug\task(ExtentionMethods).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\task(delegate)\task(delegate)\obj\Debug\task(delegate).exe
+C:\Users\User\OneDrive\Desktop\C#_practice\DERSLER_Task\task(delegate)\task(delegate)\obj\Debug\task(delegate).pdb
