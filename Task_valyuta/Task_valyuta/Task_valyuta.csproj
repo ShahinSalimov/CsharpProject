@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0F175C3B-8BC8-4E29-B131-2CA5380BE906}</ProjectGuid>
+    <ProjectGuid>{065BE221-B80B-48D0-9B06-052D235BAF4B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>task_delegate_</RootNamespace>
-    <AssemblyName>task%28delegate%29</AssemblyName>
+    <RootNamespace>Task_valyuta</RootNamespace>
+    <AssemblyName>Task_valyuta</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

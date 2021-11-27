@@ -28,32 +28,91 @@ namespace task_ExtentionMethods1_
         //public bool IsContainsDigit(string a)
         public static bool IsContainsDigit(this string b)
         {
-            bool isdigit=b.Any(x => char.IsDigit(x));
+            bool isdigit = b.Any(x => char.IsDigit(x));
             return isdigit;
 
         }
-
-        class Program
+        /*
+         GetValueIndexes() - string-ler ucun parameter oaraq gonderilen charin
+        stringin hansi indexlerinde yerlesdiyini tapan ve 
+        tapdigi butun indexleri array olaraq geri qaytaran metod 
+        (hec bir deyer tapilmazsa geriya bos (0 uzunluqlu) int[] qayidir)
+         */
+        public static string GetValueIndexes(this string psw)
         {
-            static void Main(string[] args)
+           
+            char[] a = psw.ToCharArray();
+            for (int i = 0; i < a.Length; i++)
             {
+                int change = Convert.ToInt32(a[i]);
+                if (change>96 && change <123)
+                {
+                    Console.WriteLine(i+" stringdir");
+                }
+                else
+                {
+                    Console.WriteLine(i+" string deyil");
+                }
+                
 
-                int a = 10;
-                string b = "Baki32Kend";
+            }
+            return psw;
+        }
+        /*
+         GetValueIndexes() - integer array-leri ucun parameter olaraq gonderilmis 
+        integer deyerinin bu arrayin hansi indexlerinde oldugunu tapi ,
+        butun tapdigi indexleri array olaraq geri qaytaran metod .
+        (hec bir deyer tapilmazsa geriya bos (0 uzunluqlu) int[] qayidir)*/
 
-                bool result = a.IsOdd();
-                bool result1 = a.IsEven();
-                bool result2 = b.IsContainsDigit();
+        public static List<int> GetValueIndexes(this int[] b,int a)
+        {
+            List<int> c = new List<int>();
+            for (int i = 0; i < b.Length; i++)
+            {
+                if (b[i]==a)
+                {
+                    c.Add(i);
+                }
+                
+            }
+            return c;
+        }
 
-                Console.WriteLine("eded tekdir? Netice : {0}", result);
-                Console.WriteLine("eded cutdur? Netice : {0}", result1);
-                Console.WriteLine("sozde reqem varmi? Netice : {0}", result2);
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
-                Console.ReadKey();
+            //int a = 10;
+            //string b = "Baki32Kend";
+            //string y = "baki";
+            //char x = 'a';
+            //string word = "azerbaycan123";
+
+            //word.GetValueIndexes();
+            int a = 12;
+            int[] b = new int[] { 1, 3, 4, 5, 6, 12, 23 };
+            foreach (var item in b.GetValueIndexes(a))
+            {
+                Console.WriteLine(a+" ededinin indexi "+item);
             }
 
 
+
+            //bool result = a.IsOdd();
+            //bool result1 = a.IsEven();
+            //bool result2 = b.IsContainsDigit();
+
+            //Console.WriteLine("eded tekdir? Netice : {0}", result);
+            //Console.WriteLine("eded cutdur? Netice : {0}", result1);
+            //Console.WriteLine("sozde reqem varmi? Netice : {0}", result2);
+            Console.ReadKey();
+
         }
+
+
     }
 }
+
 
