@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\TASK13(kassa aparati)\TASK13(kassa aparati)\bin\Debug\TASK13(kassa aparati).exe.config
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\TASK13(kassa aparati)\TASK13(kassa aparati)\bin\Debug\TASK13(kassa aparati).exe
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\TASK13(kassa aparati)\TASK13(kassa aparati)\bin\Debug\TASK13(kassa aparati).pdb
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\TASK13(kassa aparati)\TASK13(kassa aparati)\obj\Debug\TASK13(kassa aparati).csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\TASK13(kassa aparati)\TASK13(kassa aparati)\obj\Debug\TASK13(kassa aparati).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\TASK13(kassa aparati)\TASK13(kassa aparati)\obj\Debug\TASK13(kassa aparati).exe
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\TASK13(kassa aparati)\TASK13(kassa aparati)\obj\Debug\TASK13(kassa aparati).pdb

@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\task13\bin\Debug\task13.exe.config
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\task13\bin\Debug\task13.exe
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\task13\bin\Debug\task13.pdb
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\task13\obj\Debug\task13.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\task13\obj\Debug\task13.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\task13\obj\Debug\task13.exe
+C:\Users\User\OneDrive\Desktop\C#_practice\Pragmatech_taskssss\task13\obj\Debug\task13.pdb
